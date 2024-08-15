@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hpenZkMWZ5ZXlnNHJheGZpYXhwcG5vb3BzeGlxcXI5ZGlpeDNtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif?raw=true" width = 50px></picture> About Me
 
-<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
+<br />
 <!--
 - 🐶 &nbsp; I'm a Computer Scientist turned full-stack ML Engineer. With 11+ years of experience in <b>Natural Language Processing (NLP), Machine Learning (ML), Data Science, and Object-oriented programming</b>, I bring a strong foundation to any project. My expertise extends to <b>MLOps, and Software development cycle</b> with over 5 years of hands-on experience. As a part-time researcher at <b>DataScience-Works lab</b> in Australia, I stay at the forefront of industry trends and advancements. As an experienced <b>Technical Leader and Engineering Manager</b>, I have a proven track record of building strong, successful teams.
 
@@ -51,9 +51,8 @@ Here are some ideas to get you started:
   </p>
   </div>
 
----
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+<h2>  &nbsp;🛠️ Languages and Tools:</h2>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
