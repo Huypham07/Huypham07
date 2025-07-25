@@ -5,7 +5,7 @@
 <!-- Profile summary -->
 - 🚀 I’m currently working on exciting full-stack projects.
 - 📚 I'm learning Java, TypeScript, Python
-- 🌱 I’m learning advanced back-end development with Java, ReactJS, and microservices architecture.
+- 🌱 I’m learning advanced back-end development and large language models (LLMs).
 - 👯 I’m looking for collaboration opportunities to develop projects that create useful tools for the community.
 
 ## 🚀 Top Languages
